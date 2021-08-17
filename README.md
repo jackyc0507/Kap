@@ -5,7 +5,7 @@
   <p align="center"><a href="https://circleci.com/gh/wulkano/kap"><img src="https://circleci.com/gh/wulkano/Kap.svg?style=shield" alt="Build Status"></a> <a href="https://github.com/sindresorhus/xo"><img src="https://img.shields.io/badge/code_style-XO-5ed9c7.svg" alt="XO code style"></a></p>
 </p>
 
-## Get Kap
+## Get Kap ABC
 
 **[Download the latest release](https://getkap.co/download)** (macOS only)
 
